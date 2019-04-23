@@ -6,7 +6,7 @@ you can deliver over-the-air with [**Skafos.ai**](https://skafos.ai).
 
 ## Object Detection
 Detect objects within video frames taken on an iOS device.
-- People, Bikes, and Cars: 
+- **People, Bikes, and Cars**: 
 https://colab.research.google.com/github/skafos/colab-example-models/ObjectDetection/object_detection.ipynb
 
 ## Text Classification
@@ -15,5 +15,6 @@ Classify chunks of user text into different categories.
 
 ## Image Classification
 Classify images into different categories.
-- Cats and Dogs:
-- Poison Ivy Types: 
+- **Cats and Dogs**: https://colab.research.google.com/github/skafos/colab-example-models/ImageClassification/dogs_and_cats.ipynb
+
+- **Poison Ivy Types**: 
