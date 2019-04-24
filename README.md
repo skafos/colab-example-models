@@ -18,3 +18,13 @@ https://colab.research.google.com/github/skafos/colab-example-models/TextClassif
 ## Image Classification (Uses GPU)
 Classify images into different categories.
 - **Dogs and Cats**: https://colab.research.google.com/github/skafos/colab-example-models/ImageClassification/dogs_and_cats.ipynb
+
+## Need Help?
+Didn't find something you need? Confused by something? Need more guidance?
+
+Please contact us with questions or feedback! Here are two ways:
+
+-  [**Signup for our Slack Channel**](https://join.slack.com/t/metismachine-skafos/shared_invite/enQtNTAxMzEwOTk2NzA5LThjMmMyY2JkNTkwNDQ1YjgyYjFiY2MyMjRkMzYyM2E4MjUxNTJmYmQyODVhZWM2MjQwMjE5ZGM1Y2YwN2M5ODI)
+-  [**Find us on Reddit**](https://reddit.com/r/skafos)
+
+We will continue to update this repository with updated/new example models to get you started. Stay tuned.
