@@ -8,7 +8,7 @@ you can deliver over-the-air with [Skafos.ai](https://skafos.ai) to your iOS app
 ## Object Detection (Uses GPU)
 Detect location and identity of objects within images.
 - **People, Bikes, and Cars**: 
-https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ImageClassification/dogs_and_cats.ipynb
+https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ObjectDetection/people_bikes_cars.ipynb
 
 ## Text Classification
 Classify chunks of user text into different categories.
