@@ -5,16 +5,15 @@ you will have the ability to download a trained [CoreML](https://developer.apple
 you can deliver over-the-air with [**Skafos.ai**](https://skafos.ai).
 
 ## Object Detection
-Detect objects within video frames taken on an iOS device.
+Detect location and identity of objects within images.
 - **People, Bikes, and Cars**: 
-https://colab.research.google.com/github/skafos/colab-example-models/ObjectDetection/object_detection.ipynb
+https://colab.research.google.com/github/skafos/colab-example-models/ObjectDetection/people_bikes_cars.ipynb
 
 ## Text Classification
 Classify chunks of user text into different categories.
-- Sentiment Classification: 
+- **Sentiment Classification**: 
+https://colab.research.google.com/github/skafos/colab-example-models/TextClassification/sentiment_classifier.ipynb
 
 ## Image Classification
 Classify images into different categories.
-- **Cats and Dogs**: https://colab.research.google.com/github/skafos/colab-example-models/ImageClassification/dogs_and_cats.ipynb
-
-- **Poison Ivy Types**: 
+- **Dogs and Cats**: https://colab.research.google.com/github/skafos/colab-example-models/ImageClassification/dogs_and_cats.ipynb
