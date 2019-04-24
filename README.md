@@ -12,7 +12,7 @@ https://colab.research.google.com/github/skafos/colab-example-models/ObjectDetec
 
 ## Text Classification
 Classify chunks of user text into different categories.
-- **Sentiment Classification**: 
+- **Sentiment Classifier**: 
 https://colab.research.google.com/github/skafos/colab-example-models/TextClassification/sentiment_classifier.ipynb
 
 ## Image Classification (Uses GPU)
