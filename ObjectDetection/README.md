@@ -2,7 +2,7 @@
 Object detection is the task of locating and identifying objects within images. Here we start you off with a basic
  example:
  
- - [**People, Bikes, and Cars**](https://colab.research.google.com/github/skafos/colab-example-models/ObjectDetection/people_bikes_cars.ipynb):
+ - [**People, Bikes, and Cars**](https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ObjectDetection/people_bikes_cars.ipynb):
   Trains a model to detect and classify objects in images as people, bikes, and cars.
 
 ## Tips and "Gotchas"

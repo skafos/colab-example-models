@@ -2,7 +2,7 @@
 Text classification is the task of assigning a label to some bit of text. Here
  we start you off with a basic example:
  
- - [**Sentiment Classifier**](https://colab.research.google.com/github/skafos/colab-example-models/TextClassification/sentiment_classifier.ipynb):
+ - [**Sentiment Classifier**](https://colab.research.google.com/github/skafos/colab-example-models/blob/master/TextClassification/sentiment_classifier.ipynb):
   Trains a model to classify user text as positive (5), negative (1), or in between.
 
 ## Tips and "Gotchas"
