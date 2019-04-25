@@ -14,6 +14,8 @@ https://colab.research.google.com/github/skafos/colab-example-models/blob/master
 Classify chunks of user text into different categories.
 - **Sentiment Classifier**: 
 https://colab.research.google.com/github/skafos/colab-example-models/blob/master/TextClassification/sentiment_classifier.ipynb
+- **Spam or Ham**: 
+https://colab.research.google.com/github/skafos/colab-example-models/blob/master/TextClassification/spam_or_hame.ipynb
 
 ## Image Classification (Uses GPU)
 Classify images into different categories.
