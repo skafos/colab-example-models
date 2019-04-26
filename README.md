@@ -23,6 +23,8 @@ https://colab.research.google.com/github/skafos/colab-example-models/blob/master
 Classify images into different categories.
 - **Dogs and Cats**:
 https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ImageClassification/dogs_and_cats.ipynb
+- **Dogs, Cats, and Rabbits**:
+https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ImageClassification/dogs_cats_rabbits.ipynb
 
 ## Need Help?
 Didn't find something you need? Confused by something? Need more guidance?
