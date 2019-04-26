@@ -6,7 +6,9 @@ Text classification is the task of assigning a label to some bit of text. Here
   Trains a model to classify user text as positive (5), negative (1), or in between.
 - [**Spam or Ham**](https://colab.research.google.com/github/skafos/colab-example-models/blob/master/TextClassification/spam_or_ham.ipynb):
  Trains a model to classify user text as "spam" (bad) or "ham" (good).
-- [**Topic Classifier**](https://colab.research.google.com/github/skafos/colab-example-models/blob/master/TextClassification/topic_classifier.ipynb)
+- [**Topic Classifier**](https://colab.research.google.com/github/skafos/colab-example-models/blob/master/TextClassification/topic_classifier.ipynb):
+ Trains a model to classify user text into one of 20 different topics.
+ 
 ## Tips and "Gotchas"
 -  **Training Data**: The training data used for the sentiment classifier consists of raw text from user reviews on Yelp,
 paired with a sentiment score (1-5). Don't expect the model to predict the topic of text out of the box unless you
