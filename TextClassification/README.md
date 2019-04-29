@@ -10,17 +10,16 @@ Text classification is the task of assigning a label to some bit of text. Here
  Trains a model to classify user text into one of 20 different topics.
  
 ## Tips and "Gotchas"
--  **Training Data**: The training data used for the sentiment classifier consists of raw text from user reviews on Yelp,
-paired with a sentiment score (1-5). Don't expect the model to predict the topic of text out of the box unless you
-change the underlying training data.
  -  **Common Text Classification Tasks**:
      -  ***Sentiment Classification***: How positive or negative is a piece of text? Typically trained with text data 
      representing user reviews and respective ratings on a scale 1-5. The starter model in this repo contains a basic 
      sentiment classifier trained on yelp reviews.
     -  ***Spam Classification***: How likely is it that a piece of text is considered "spam" or "ham"? Typically trained with 
-    text data paired with the appropriate label (spam or ham). 
+    text data paired with the appropriate label (spam or ham). The starter model in this repo contains a basic spam classifier
+    trained on SMS text message data.
     -  ***Topic Identification***: What is the topic or subject matter of a piece of text? Typically trained with text 
-    data paired with related categories.
+    data paired with related categories. The starter model in this repo contains a basic topic classifier trained on
+    news articles labeled with corresponding category (provided by scikit-learn package). 
 - **Wrangling Text w/ Turi Create**: Text comes in a host of different formats. Fortunately, the Turi Create text 
 classifier handles all [tokenization](https://nlp.stanford.edu/IR-book/html/htmledition/tokenization-1.html), 
 and text feature engineering, and cleaning of your text data automatically.
