@@ -2,8 +2,13 @@
 Image classification is the task of assigning a label to an image (classifying an image as one thing or another). Here
  we start you off with a basic example:
  
- - [**Dogs and Cats**](https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ImageClassification/dogs_and_cats.ipynb): Trains a model to classify an image as a cat or a dog using 25,000 images 
- (12,500 Cats and 12,500 Dogs). 
+ - [**Dogs and Cats**](https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ImageClassification/dogs_and_cats.ipynb):
+  Trains a model to classify an image as a cat or a dog using 25,000 images 
+ (12,500 Cats and 12,500 Dogs).
+ - [**More Pets**](): 
+ Trains a model to classify an image as a cat, dog, rabbit, mouse, hamster, or fish.
+ - [**Poison Ivy**](): 
+ Trains a model to classify a plant image as a type of poison ivy (or not).
 
 ## Tips and "Gotchas"
 -  **Training Data**: In order for an image classifier to identify a particular category, it must have trained on
