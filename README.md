@@ -9,6 +9,8 @@ you can deliver over-the-air with [Skafos.ai](https://skafos.ai) to your iOS app
 Detect location and identity of objects within images.
 - **People, Bikes, and Cars**: 
 https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ObjectDetection/people_bikes_cars.ipynb
+- [**Coffee, Pens, and Computers**](https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ObjectDetection/coffee_pens_computers.ipynb)
+- [**Couches, Chairs, Tables and Beds**](https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ObjectDetection/couch_chair_table_bed.ipynb)
 
 ## Text Classification
 Classify chunks of user text into different categories.
