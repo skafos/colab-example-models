@@ -23,6 +23,10 @@ https://colab.research.google.com/github/skafos/colab-example-models/blob/master
 Classify images into different categories.
 - **Dogs and Cats**:
 https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ImageClassification/dogs_and_cats.ipynb
+- **More Pets**:
+https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ImageClassification/more_pets.ipynb
+- **Poison Ivy**:
+https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ImageClassification/poison_ivy.ipynb
 
 ## Need Help?
 Didn't find something you need? Confused by something? Need more guidance?
