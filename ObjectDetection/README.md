@@ -11,8 +11,7 @@ Object detection is the task of locating and identifying objects within images. 
 -  **Training Data**: In order for an object detection model to identify a particular object, it must have seen
 other objects with the same label. To build an object detection model that identifies what you want, you would need
 to retrain the model, using bounded and labeled images of the type you want.
--  **Model Runtime**: The out-of-the box model takes a long time to train on CPU. Definitely take advantage of Google
-colab's free GPU runtimes. The link provided in the main README should have that automatically selected.
+-  **Model Runtime**: The out-of-the box model takes a long time to train on CPU. Unfortunately, there is currently a [known issue exporting Turi Create Object Detection models to CoreML](https://github.com/apple/turicreate/issues/1249). Until this issue is resolved, using Google Colab will require the use of a CPU. We are continuing to monitor this issue, and will update the code here when it is resolved.
 -  **Model Size**: Try converting the CoreML model's weights to half-precision if you are worried about the size of the
 resulting model. This doesn't mean you sacrifice half of your accuracy, it simply means it uses less floating points
 in the weights of the model. To read more about this, check out [Apple's article](https://developer.apple.com/documentation/coreml/reducing_the_size_of_your_core_ml_app) on this topic.
