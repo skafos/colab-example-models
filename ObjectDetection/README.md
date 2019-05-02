@@ -4,7 +4,7 @@ Object detection is the task of locating and identifying objects within images. 
  
  - [**People, Bikes, and Cars**](https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ObjectDetection/people_bikes_cars.ipynb):
   Trains a model to detect and classify objects in images of people, bikes, and cars.
- - [**Coffee, Pens, and Computers**](https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ObjectDetection/coffee_pens_computers.ipynb): Trains a model to detect and classify objects in images of coffee mugs, pens and computer monitors.
+ - [**Coffee, Pens, and Computers**](https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ObjectDetection/coffee_pen_computer.ipynb): Trains a model to detect and classify objects in images of coffee mugs, pens and computer monitors.
   - [**Couches, Chairs, Tables and Beds**](https://colab.research.google.com/github/skafos/colab-example-models/blob/master/ObjectDetection/couch_chair_table_bed.ipynb): Trains a model to detect and classify objects in images of couches, chairs, tables and beds.
 
 ## Tips and "Gotchas"
