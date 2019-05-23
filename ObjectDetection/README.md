@@ -20,6 +20,8 @@ in the weights of the model. To read more about this, check out [Apple's article
 ## Need Help?
 Didn't find something you need? Confused by something? Need more guidance?
 
+- [**Check out our platform documentation**](https://docs.skafos.ai)
+
 Please contact us with questions or feedback! Here are two ways:
 
 -  [**Signup for our Slack Channel**](https://join.slack.com/t/metismachine-skafos/shared_invite/enQtNTAxMzEwOTk2NzA5LThjMmMyY2JkNTkwNDQ1YjgyYjFiY2MyMjRkMzYyM2E4MjUxNTJmYmQyODVhZWM2MjQwMjE5ZGM1Y2YwN2M5ODI)
